@@ -1,4 +1,4 @@
-# Proyecto PokeApi para Defontana
+# Proyecto Frontend para GrupoAspasia
 
 Proyecto desarrollado con React + Tailwind + React-router-dom + React-tables + HeadlessUI.
 
