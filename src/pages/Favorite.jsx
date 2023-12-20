@@ -6,7 +6,7 @@ const Favorite = () => {
   const { favorite } = useBooks();
 
   return (
-    <div className="w-full flex flex-col justify-center items-center">
+    <div className="w-full flex flex-col justify-center items-center h-[80vh]">
       <h1 className="text-4xl text-white mb-5">Favorites ⭐</h1>
       <Table data={favorite} />
       <PopoverDetails />
